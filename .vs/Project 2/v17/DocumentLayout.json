@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TDC\\source\\repos\\Project 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|c:\\users\\tdc\\source\\repos\\project 2\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|c:\\users\\tdc\\source\\repos\\project 2\\main\\enroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|solutionrelative:main\\enroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|c:\\users\\tdc\\source\\repos\\project 2\\main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|solutionrelative:main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|c:\\users\\tdc\\source\\repos\\project 2\\main\\format.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|solutionrelative:main\\format.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|c:\\users\\tdc\\source\\repos\\project 2\\main\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|solutionrelative:main\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|c:\\users\\tdc\\source\\repos\\project 2\\main\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|solutionrelative:main\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|c:\\users\\tdc\\source\\repos\\project 2\\main\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|solutionrelative:main\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|c:\\users\\tdc\\source\\repos\\project 2\\main\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|solutionrelative:main\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|c:\\users\\tdc\\source\\repos\\project 2\\main\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F25A1E6-DDF8-4952-A792-0EE8410DE85D}|Main\\Main.csproj|solutionrelative:main\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enroll.cs",
+              "DocumentMoniker": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Enroll.cs",
+              "RelativeDocumentMoniker": "Main\\Enroll.cs",
+              "ToolTip": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Enroll.cs",
+              "RelativeToolTip": "Main\\Enroll.cs",
+              "ViewState": "AgIAAAIAAABAfZmZmZnpvwYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T19:58:40.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Main.cs",
+              "RelativeDocumentMoniker": "Main\\Main.cs",
+              "ToolTip": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Main.cs",
+              "RelativeToolTip": "Main\\Main.cs",
+              "ViewState": "AgIAAAEAAAAAMjMzMzMbwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:06:43.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Format.cs",
+              "DocumentMoniker": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Format.cs",
+              "RelativeDocumentMoniker": "Main\\Format.cs",
+              "ToolTip": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Format.cs",
+              "RelativeToolTip": "Main\\Format.cs",
+              "ViewState": "AgIAAAIAAABgmZmZmZkrwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:41:42.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Authentication.cs",
+              "RelativeDocumentMoniker": "Main\\Authentication.cs",
+              "ToolTip": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Authentication.cs",
+              "RelativeToolTip": "Main\\Authentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:23:52.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Repo.cs",
+              "RelativeDocumentMoniker": "Main\\Repo.cs",
+              "ToolTip": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Repo.cs",
+              "RelativeToolTip": "Main\\Repo.cs",
+              "ViewState": "AgIAAAIAAAAYzMzMzMwUwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:03:20.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Interfaces.cs",
+              "RelativeDocumentMoniker": "Main\\Interfaces.cs",
+              "ToolTip": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Interfaces.cs",
+              "RelativeToolTip": "Main\\Interfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T15:57:31.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Course.cs",
+              "RelativeDocumentMoniker": "Main\\Course.cs",
+              "ToolTip": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Course.cs",
+              "RelativeToolTip": "Main\\Course.cs",
+              "ViewState": "AgIAAAIAAAAAMTMzMzMLwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T15:05:36.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Student.cs",
+              "RelativeDocumentMoniker": "Main\\Student.cs",
+              "ToolTip": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Student.cs",
+              "RelativeToolTip": "Main\\Student.cs",
+              "ViewState": "AgIAABAAAACAyMzMzMwcwBsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T15:00:51.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Program.cs",
+              "RelativeDocumentMoniker": "Main\\Program.cs",
+              "ToolTip": "C:\\Users\\TDC\\source\\repos\\Project 2\\Main\\Program.cs",
+              "RelativeToolTip": "Main\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T15:00:01.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
