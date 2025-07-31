@@ -17,5 +17,3 @@ A simple C# project applying **SOLID principles**, simulating a basic school man
 
 - Language: **C#**
 - Design: **SOLID Principles**
-
-## 📂 Project Structure
